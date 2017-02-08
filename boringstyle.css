@@ -1,0 +1,28 @@
+p.intro{
+  color: red;
+  font-style: italic;
+
+}
+h2.intro{
+  font-style: italic;
+  color: blue;
+
+}
+
+img.intro{
+  width:400px;
+  length:600px;
+  border: 2px dashed blue;
+}
+ul.nav {
+  list-style-type: none;
+  float:top;
+  padding: 12px;
+}
+li {
+  display: block;
+  float:right;
+}
+.cent {
+  margin-left: 33px;
+}
